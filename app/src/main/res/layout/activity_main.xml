@@ -33,7 +33,7 @@
         android:layout_marginTop="60dp"
         android:fontFamily="sans-serif-light"
         android:padding="22dp"
-        android:text="Que Dieu vous bénisse tous les jours  de votre vie"
+        android:text="Que Dieu vous bénisse tous les jours de votre vie"
         android:textColor="@android:color/holo_green_light"
         android:textSize="18sp"
         android:textStyle="bold" />
